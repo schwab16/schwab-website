@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Schwab
+title: Schwab16
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Web Developer. Skier. Learner.
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
